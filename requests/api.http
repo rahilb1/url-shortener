@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.in/Lenovo-IdeaPad-Windows-Graphics-81Y40183IN/dp/B096SK39ZB/ref=sr_1_1_sspa?dchild=1&keywords=laptop&qid=1629986688&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExN1NFOTNDN0FNUzNNJmVuY3J5cHRlZElkPUEwNzgzNTkwMTBZSjJFSlVDVEhRSSZlbmNyeXB0ZWRBZElkPUEwMjgyMDMyM0JBRFgwMURGQlg5OCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+}
